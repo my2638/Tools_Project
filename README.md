@@ -2,6 +2,9 @@
 
 This project is to track all the known squirrels in Central Park. Users are allowed to report, update, and view squirrel data. 
 
+## Group and Uni
+uni: [my2638]
+
 ## install requirements
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required packages.
